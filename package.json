@@ -1,0 +1,23 @@
+{
+  "name": "faster_image_preview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"npx live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanaltair/faster_image_preview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanaltair/faster_image_preview/issues"
+  },
+  "homepage": "https://github.com/ryanaltair/faster_image_preview#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
